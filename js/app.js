@@ -5,10 +5,10 @@ if (math_choice == 1){
   var a = +prompt("Enter first number");
   var b = +prompt("Enter second number");
   alert (a + b);
-// }else if (math_choice == 2){
-//   var a = +prompt("Enter first number");
-//   var b = +prompt("Enter second number");
-//   alert (a - b);
+}else if (math_choice == 2){
+  var a = +prompt("Enter first number");
+  var b = +prompt("Enter second number");
+  alert (a - b);
 // }else if (math_choice == 3){
 //   var a = +prompt("Enter first number");
 //   var b = +prompt("Enter second number");
