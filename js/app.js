@@ -9,12 +9,12 @@ if (math_choice == 1){
   var a = +prompt("Enter first number");
   var b = +prompt("Enter second number");
   alert (a - b);
-// }else if (math_choice == 3){
-//   var a = +prompt("Enter first number");
-//   var b = +prompt("Enter second number");
-//   alert (a * b)
+}else if (math_choice == 3){
+  var a = +prompt("Enter first number");
+  var b = +prompt("Enter second number");
+  alert (a * b);
 // }else if (math_choice == 4){
 //   var a = +prompt("Enter first number");
 //   var b = +prompt("Enter second number");
-//   alert (a / b)
+//   alert (a / b);
 // }
